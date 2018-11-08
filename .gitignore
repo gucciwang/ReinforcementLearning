@@ -3,4 +3,4 @@ src/__pycache__/
 .idea/
 .gitattributes
 *.pyc
-logs/*
+*.log
