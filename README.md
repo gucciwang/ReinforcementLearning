@@ -1,8 +1,5 @@
 # Reinforcement Learning # 
 
-## Contributors ## 
-Calvin Wang -- just me baby 
-
 ## Intro ## 
 This project was done at CalHacks 5.0 in November 2018. At this hackathon, I wanted to expand my understanding and experience beyond just computer vision and and natural language processing, and into reinforcement learning. I began with FrozenLake and CartPole in OpenAI Gym, and eventually transitioned to adapting Alpha Go Zero to Connect 4. 
 
